@@ -1,0 +1,6 @@
+﻿Build started at 4:53 PM...
+1>------ Build started: Project: ilkin's code, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>ilkin's code -> C:\Users\II Novbe\Documents\My Web Sites\ilkin's code\ilkin's code\bin\Debug\net9.0\ilkin's code.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 4:53 PM and took 00.448 seconds ==========
