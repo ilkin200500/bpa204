@@ -1,0 +1,9 @@
+﻿Build started at 5:28 PM...
+1>------ Build started: Project: iko5, Configuration: Debug Any CPU ------
+1>Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>C:\Users\II Novbe\Documents\My Web Sites\iko5\iko5\Program.cs(7,20,7,28): warning CS0219: The variable 'mehsulAd' is assigned but its value is never used
+1>C:\Users\II Novbe\Documents\My Web Sites\iko5\iko5\Program.cs(9,17,9,24): warning CS0219: The variable 'endirim' is assigned but its value is never used
+1>iko5 -> C:\Users\II Novbe\Documents\My Web Sites\iko5\iko5\bin\Debug\net9.0\iko5.dll
+1>Done building project "iko5.csproj".
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 5:28 PM and took 02.317 seconds ==========
